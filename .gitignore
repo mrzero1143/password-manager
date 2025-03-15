@@ -1,0 +1,21 @@
+# File log
+logs/
+
+# File kunci enkripsi
+secret.key
+
+# File backup
+backups/
+
+# File Python yang dihasilkan
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File IDE
+.vscode/
+.idea/
+
+# File sensitif lainnya
+passwords.txt

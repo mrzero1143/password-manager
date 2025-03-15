@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Library untuk penjadwalan backup otomatis
+schedule==1.2.0
+
+# Library untuk manipulasi gambar (opsional, jika Anda menggunakan Pillow)
+Pillow>=9.0.0
+
+# Library untuk sinkronisasi cloud (opsional, jika Anda menggunakan boto3 untuk AWS)
+# boto3>=1.26.0
+
+# Versi Python minimum
+# python_version>=3.10
